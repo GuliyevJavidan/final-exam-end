@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 100%;
+    height: 50px;
+}
+.a-link{
+    justify-content: space-around;
+}
+.blue{
+    background: rgb(61,53,204);
+background: linear-gradient(90deg, rgba(61,53,204,1) 27%, rgba(198,198,228,1) 27%, rgba(219,232,235,1) 57%);
+    width: 100%;
+    height: 500px;
+}
